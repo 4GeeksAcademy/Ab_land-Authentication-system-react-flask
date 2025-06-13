@@ -1,0 +1,13 @@
+.d-flex-center-vh{    
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.better-body{
+    background-image: url(https://images.unsplash.com/vector-1749723797808-40eb61ce2ec4);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;    
+    height: 100vh;
+}
